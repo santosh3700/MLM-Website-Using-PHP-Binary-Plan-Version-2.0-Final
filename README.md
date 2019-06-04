@@ -8,7 +8,8 @@ This is the final code of the MLM Website Using PHP - Binary Plan
   <li>Unzip all.zip</li>
   <li>You will get SQL file with the name of <b>mlm.sql</b></li>
   <li>Create Database in your server and Import mlm.sql file</li>
-  <li>Now Configure connect.php file that is inside <b>/php-includes</b> folder. Change the databsae name, host, username, and password according to your server details.</li>
+  <li>Now Configure connect.php file that is inside <b>/php-includes/connect.php</b> folder. Change the databsae name, host, username, and password according to your server details.</li>
+  <li>Also do the same database configure inside the <b>/admin/php-includes/connect.php</b>
   <li>All done. It is ready to use. You can acces your admin area by the link yourdomin.com/admin </li>
   <li>Admin's username and password is already stored in the admin table in the Database</li>
 </ol>
