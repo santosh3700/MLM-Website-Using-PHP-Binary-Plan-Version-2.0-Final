@@ -29,7 +29,7 @@ Here is my website - https://tutorialvilla.com/
 <h3>we never compromise on quality.</h3>
 
 <br><br>
-<iframe src="https://discordapp.com/widget?id=695888005571018783&theme=dark" style="width:100%" height="500" allowtransparency="true" frameborder="0"></iframe>
+<h2>Join X Developers on Discord </h2> https://discord.gg/nA2ukb
 <br><br>
 
 
