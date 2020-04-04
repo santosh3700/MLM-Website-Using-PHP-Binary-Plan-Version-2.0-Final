@@ -30,7 +30,11 @@ Here is my website - https://tutorialvilla.com/
 
 <br><br>
 <h2>Join X Developers on Discord </h2> https://discord.gg/nA2ukb
-<br><br>
+<br>You can get all types of help regarding devlopement or you can be a hero by doing it for other's :) 
+
+<br>
+
+<h2>Project Videos on YouTube</h2>
 
 
 Here is the Youtube project link for the MLM Binary Plan 1X2 - https://www.youtube.com/watch?v=0fBScrC0cKU&list=PLnq9yHs8s_hm6LEwIJ4qlV53U6Fo--YZh
