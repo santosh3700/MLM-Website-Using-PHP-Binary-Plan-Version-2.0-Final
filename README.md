@@ -29,7 +29,7 @@ Here is my website - https://tutorialvilla.com/
 <h3>we never compromise on quality.</h3>
 
 <br><br>
-<h2>Join X Developers on Discord </h2> https://discord.gg/nA2ukb
+<h2>Join X Developers on Discord </h2> https://discord.gg/y9estKq
 <br>You can get all types of help regarding devlopement or you can be a hero by doing it for other's :) 
 
 <br>
